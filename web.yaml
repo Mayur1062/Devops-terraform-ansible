@@ -8,4 +8,4 @@
     - name: start service
       service: name=httpd state=started
     - name: add user
-      user: name=raman state=present
+      user: name=mayur state=present
